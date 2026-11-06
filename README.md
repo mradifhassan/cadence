@@ -1,3 +1,6 @@
+<div align="center">
+<img width="1200" height="475" alt="banner" src="./assets/preview.png" />
+</div>
 # Cadence — Typing Test with a Mechanical Keyboard
 
 A fast, minimal typing speed test written in C. It shows a modern on-screen mechanical keyboard that reacts to every key you press, plays realistic key sounds, and tracks your words per minute and accuracy.
