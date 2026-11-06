@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="banner" src="./assets/preview.png" />
+<img alt="banner" src="./assets/preview.png" />
 </div>
 
 # Cadence — Typing Test with a Mechanical Keyboard
