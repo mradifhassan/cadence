@@ -365,3 +365,4 @@ cadence/
 ## License
 
 GPL-3.0-only, as declared in `meson.build`.
+# cadence
