@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cadence Typing Test
+GenericName=Typing Test
+Comment=Measure your WPM with a mechanical keyboard feel
+Exec=cadence
+Icon=cadence
+Terminal=false
+Type=Application
+Categories=Game;Education;Typing;
+Keywords=typing;wpm;keyboard;mechanical;test;
+StartupNotify=true

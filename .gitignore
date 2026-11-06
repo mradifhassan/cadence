@@ -1,0 +1,13 @@
+# Meson build directory
+build/
+
+# Object files and binaries
+*.o
+*.exe
+cadence
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
