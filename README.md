@@ -69,11 +69,10 @@ Choose one of these:
 **Option A: Git (recommended)**
 
 ```bash
-git clone <your-repository-url> cadence
+git clone https://github.com/mradifhassan/cadence.git
 cd cadence
 ```
 
-Replace `<your-repository-url>` with the address of the repository you downloaded this from.
 
 **Option B: Download a ZIP**
 
